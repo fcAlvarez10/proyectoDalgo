@@ -1,4 +1,4 @@
-package prodal;
+
 
 public class ProblemaA {
 	public static void main(String[] args)throws Exception{
