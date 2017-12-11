@@ -2,7 +2,11 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Stack;
-
+/**
+ * Programa para calcular el minimo diferencial posible para un grafo BC
+ * @author Jorge Gomez
+ * @author Fabian Alvarez
+ */
 public class ProblemaB {
 	public static void main(String[] args) {
 		ProblemaB program = new ProblemaB();
