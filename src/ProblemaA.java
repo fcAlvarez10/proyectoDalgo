@@ -2,6 +2,11 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.text.DecimalFormat;
 import java.util.Arrays;
+/**
+ * Programa para calcular la convolución ponderada
+ * @author Jorge Gomez
+ * @author Fabian Alvarez
+ */
 public class ProblemaA {
 	public static void main(String[] args)throws Exception{
 		ProblemaA instancia= new ProblemaA();
